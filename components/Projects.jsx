@@ -10,7 +10,7 @@ import sg from '../public/assets/projects/simon.png';
 import dg from '../public/assets/projects/dicegame.png';
 import mp from '../public/assets/projects/mp.png';
 import td from '../public/assets/projects/tindog.png';
-import ProjectItem from './projectItem';
+import ProjectItem from './ProjectItem';
 
 const Projects = () => {
   return (
