@@ -2,7 +2,7 @@ import Image from 'next/image';
 import React from 'react';
 import sg from '../public/assets/projects/simon.png';
 import { RiRadioButtonFill } from 'react-icons/ri';
-import Link from 'next/Link';
+import Link from 'next/link';
 
 const simongame = () => {
   return (

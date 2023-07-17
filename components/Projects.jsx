@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import Link from 'next/Link';
+import Link from 'next/link';
 import React from 'react';
 import ws from '../public/assets/projects/wanderstay.png';
 import cg from '../public/assets/projects/codeground.png';

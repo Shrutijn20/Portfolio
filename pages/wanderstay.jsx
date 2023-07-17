@@ -2,7 +2,7 @@ import Image from 'next/image';
 import React from 'react';
 import ws from '../public/assets/projects/wanderstay.png';
 import { RiRadioButtonFill } from 'react-icons/ri';
-import Link from 'next/Link';
+import Link from 'next/link';
 
 const wanderstay = () => {
   return (

@@ -2,7 +2,7 @@ import Image from 'next/image';
 import React from 'react';
 import td from '../public/assets/projects/tindog.png';
 import { RiRadioButtonFill } from 'react-icons/ri';
-import Link from 'next/Link';
+import Link from 'next/link';
 
 const mpTourism = () => {
   return (

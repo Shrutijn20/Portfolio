@@ -2,7 +2,7 @@ import Image from 'next/image';
 import React from 'react';
 import wa from '../public/assets/projects/weatherapp.png';
 import { RiRadioButtonFill } from 'react-icons/ri';
-import Link from 'next/Link';
+import Link from 'next/link';
 
 const weather = () => {
   return (
