@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import Link from 'next/link';
+import Link from 'next/Link';
 import React from 'react';
 import ws from '../public/assets/projects/wanderstay.png';
 import cg from '../public/assets/projects/codeground.png';
@@ -10,7 +10,7 @@ import sg from '../public/assets/projects/simon.png';
 import dg from '../public/assets/projects/dicegame.png';
 import mp from '../public/assets/projects/mp.png';
 import td from '../public/assets/projects/tindog.png';
-import ProjectItem from './ProjectItem';
+import ProjectItem from './projectItem';
 
 const Projects = () => {
   return (
@@ -51,7 +51,7 @@ const Projects = () => {
           <ProjectItem
             title='Newsletter Sign Up'
             backgroundImg={ns}
-            projectUrl='/newsletter'
+            projectUrl='/newsLetter'
             tech='JavaScript'
 
           />

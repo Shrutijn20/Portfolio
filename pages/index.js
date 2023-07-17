@@ -1,9 +1,9 @@
 import Head from 'next/head'
 import About from '../components/About'
-import Contact from '../components/Contact'
-import Main from '../components/Main'
-import Projects from '../components/Projects'
-import Skills from '../components/Skills'
+import Contact from '../components/contact'
+import Main from '../components/main'
+import Projects from '../components/projects'
+import Skills from '../components/skills'
 
 
 export default function Home() {

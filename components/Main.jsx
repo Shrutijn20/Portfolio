@@ -1,4 +1,4 @@
-import Link from 'next/link';
+import Link from 'next/Link';
 import React from 'react';
 import { AiOutlineMail } from 'react-icons/ai';
 import { BsFillPersonLinesFill } from 'react-icons/bs';

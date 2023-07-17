@@ -2,7 +2,7 @@ import Image from 'next/image';
 import React from 'react';
 import news from '../public/assets/projects/news.png';
 import { RiRadioButtonFill } from 'react-icons/ri';
-import Link from 'next/link';
+import Link from 'next/Link';
 
 const newsLetter = () => {
   return (
@@ -75,4 +75,4 @@ const newsLetter = () => {
   );
 };
 
-export default weather;
+export default newsLetter;
